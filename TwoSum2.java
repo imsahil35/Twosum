@@ -18,6 +18,6 @@ public static void main(String[] args) {
 	int[] n1={1,5,8,7,2};
 	int target=9;
 	int[] result=twosum.TwoSum(n1, target);
-	System.out.println(result);
+	System.out.println(result[0]+" "+[1]);
 }
 }
